@@ -1,3 +1,6 @@
 site_name: galactic sanjay
 markdown_extensions:
   - tables
+nav:
+   - 'index.md'
+   - 'james-web.md'
