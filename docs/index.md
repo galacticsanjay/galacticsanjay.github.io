@@ -18,6 +18,6 @@ brightness: ~8,000,000 times the brightness of the sun
 
 spectral class: WN5H
 
-Description: R136A1(the most massive/brightest star that scientists discovered so far) is a heavy, dense and bright star that is very far away from the sun which makes it very hard to calculate the exact peramiters of R136A1 like mass, brightness and etc.
+Description: R136A1(the most massive/brightest star that scientists discovered so far) is a heavy, dense and bright star that is very far away from the sun which makes it very hard to calculate the exact perimeters of R136A1 like mass, brightness and etc.
 
 
